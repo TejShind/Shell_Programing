@@ -1,0 +1,7 @@
+Name      RollNo. Prizes    Subject
+Komal      1        2000     Maths
+Shamal     2        1000     Science
+Akash      3        9000     Maths
+Tejaswini  4        3000     Maths 
+Swapnil    5        400      Hindi
+Prisha     6        800      Maths
